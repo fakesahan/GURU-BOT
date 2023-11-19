@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94764497078', 'me', true],
-  ['6281255369012', 'Ash', true], 
+  ['94772270416', 'me', true],
+  ['94772270416', 'Ash', true], 
   [''] 
 ] //Number of owners
 
@@ -61,7 +61,7 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
-global.dmoji = '🤭'
+global.dmoji = '🍭🔐'
 global.done = '✅'
 global.error = '❌' 
 global.xmoji = '🔥' 
